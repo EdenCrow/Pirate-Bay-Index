@@ -4,6 +4,7 @@ In 2012 [TorrentFreak reported on a PirateBay user dumping the entire contents o
 ## Requirements
 - Python 3
 - Data dump by allisfine ([download via Dropbox](https://www.dropbox.com/s/19gpiuimeqw7ost/data?dl=0)) (also available via magnet link via the TorrentFreak article)
+- A default way of handling magnet links with some sort of torrenting software
 
 ## Quick Start
 - Download script.py from this repository
