@@ -30,7 +30,6 @@ def download_torrent(torrentmagnet, results):
 				torrent_number = usr_input
 			else:
 				print("Number is not in results range (1 - " + str(results) + ")")
-		torrent_number = int(torrent_number)
 		magnet_link = torrentmagnet[torrent_number-1]
 	elif results == 1:
 		magnet_link = magnet_link = torrentmagnet[0]
