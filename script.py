@@ -25,7 +25,7 @@ def download_torrent(torrentmagnet, results):
 				 	usr_input = int(usr_input)
 				 except ValueError:
 				 	print("Input is not a valid number")
-			if 0 < int(usr_input) <= results:
+			if 0 < usr_input <= results:
 				true_number = True
 				torrent_number = usr_input
 			else:
