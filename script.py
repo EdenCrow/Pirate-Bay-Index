@@ -8,7 +8,7 @@ import subprocess
 # A = TBP ID
 # B = TorrentName
 # C = Size In Bytes
-# D = Seeders5
+# D = Seeders
 # E = Leechers
 # F = MagnetLinkHash
 
