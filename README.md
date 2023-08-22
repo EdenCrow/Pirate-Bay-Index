@@ -15,15 +15,19 @@ In 2012 PirateBay user _allisfine_ dumped a copy of every torrent available on t
 
 I have uploaded the script here for prosperity, please note that this project is not maintained.
 
-## :arrow_down: Download
-
-Download the original script or Windows executable from the [releases page](https://github.com/EdenCrow/Pirate-Bay-Index/releases).
-
 ## :hammer_and_wrench: Requirements
 
 - [Python 3](https://www.python.org/downloads/) (not required for exe version)
-- Data dump (download via [Dropbox](https://www.dropbox.com/s/19gpiuimeqw7ost/data?dl=0) or [magnet link](magnet:?xt=urn:btih:938802790a385c49307f34cca4c30f80b03df59c&dn=The+whole+Pirate+Bay+magnet+archive&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80))
+- Data dump
 - Default software for handling magnet links (e.g. [qBittorrent](https://www.qbittorrent.org/))
+
+## :arrow_down: Downloads
+
+Download the original script or Windows executable from the [releases page](https://github.com/EdenCrow/Pirate-Bay-Index/releases).
+
+Download the dump via [Dropbox](https://www.dropbox.com/s/19gpiuimeqw7ost) or the following magnet link:
+
+_magnet:?xt=urn:btih:938802790a385c49307f34cca4c30f80b03df59c&dn=The+whole+Pirate+Bay+magnet+archive&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80_
 
 ## :boom: How to Use
 
